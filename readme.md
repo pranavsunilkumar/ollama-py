@@ -1,0 +1,1 @@
+a rag pipeline with an local model "qwen3:0.6b" on ollama, running to answer any questions related to the pdf file given.
